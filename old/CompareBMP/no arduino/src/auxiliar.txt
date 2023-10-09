@@ -1,0 +1,25 @@
+  tw_master_transmit(addBMP280, data_tx, 1, true);
+  tw_master_receive(addBMP280, data_rx, 2);
+
+  printf("%X %X\n", data_rx[0], data_rx[1]);
+
+  tw_master_transmit(addBMP280, data_tx, 1, true);
+  tw_master_receive(addBMP280, data_rx, 2);
+
+  data_tx[0] = 0xF4;
+  data_tx[1] = data_rx[0] | 3;
+  tw_master_transmit(addBMP280, data_tx, 2, true);
+
+  data_tx[0] = 0xF0;
+  tw_master_transmit(addBMP280, data_tx, 1, true);
+  tw_master_receive(addBMP280, data_rx, 2);
+
+  data_tx[0] = 0xF1;
+  tw_master_transmit(addBMP280, data_tx, 1, true);
+  tw_master_receive(addBMP280, data_rx, 2);
+
+  data_tx[0] = 0xF2;
+  tw_master_transmit(addBMP280, data_tx, 1, true);
+  tw_master_receive(addBMP280, data_rx, 2);
+
+  printf("%X %X\n", data_rx[0], data_rx[1]);

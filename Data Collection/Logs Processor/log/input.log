@@ -1,0 +1,145 @@
+_neutralVoltage:1572.27
+_acidVoltage:2089.84
+Next ID: 245
+Started
+Current State:0
+Current State:1
+Current State:4
+sample:245,3.94,26.61,100104.25,80.00,29.75
+Current State:5
+Current State:6
+Current State:0
+Current State:1
+Current State:4
+sample:246,2.75,26.60,100102.35,78.00,29.75
+Current State:5
+Current State:6
+Current State:0
+Current State:1
+Current State:4
+sample:247,2.87,26.58,100106.42,81.00,29.69
+Current State:5
+Current State:6
+Current State:0
+Current State:1
+Current State:4
+sample:248,3.18,26.57,100103.42,80.00,29.62
+Current State:5
+Current State:6
+Current State:0
+Current State:1
+Current State:4
+sample:249,4.37,26.58,100104.33,75.00,29.56
+Current State:5
+Current State:6
+Current State:0
+Current State:1
+Current State:4
+sample:250,2.75,26.57,100106.01,77.00,29.50
+Current State:5
+Current State:6
+Current State:0
+Current State:1
+Current State:4
+sample:251,4.34,26.58,100102.78,77.00,29.44
+Current State:5
+Current State:6
+Current State:0
+Current State:1
+Current State:3
+Previous temp:29.50	sol_temp: 29.37	Threshold: 1.50	Desired temp: 31.00
+Previous temp:29.50	sol_temp: 29.62	Threshold: 1.50	Desired temp: 31.00
+Previous temp:29.50	sol_temp: 30.06	Threshold: 1.50	Desired temp: 31.00
+Previous temp:29.50	sol_temp: 30.50	Threshold: 1.50	Desired temp: 31.00
+Current State:0
+Current State:1
+Current State:4
+sample:252,4.37,26.58,100092.14,72.00,30.81
+Current State:5
+Current State:6
+Current State:0
+Current State:1
+Current State:4
+sample:253,4.28,26.59,100092.05,85.00,30.81
+Current State:5
+Current State:6
+Current State:0
+Current State:1
+Current State:4
+sample:254,4.28,26.59,100089.17,76.00,30.81
+Current State:5
+Current State:6
+Current State:0
+Current State:1
+Current State:4
+sample:255,3.15,26.60,100091.85,74.00,30.81
+Current State:5
+Current State:6
+Current State:0
+Current State:1
+Current State:4
+sample:0,2.78,26.60,100089.68,79.00,30.81
+Current State:5
+Current State:6
+Current State:0
+Current State:1
+Current State:4
+sample:1,2.81,26.62,100088.74,80.00,30.81
+Current State:5
+Current State:6
+Current State:0
+Current State:1
+Current State:4
+sample:2,4.25,26.65,100088.92,70.00,30.75
+Current State:5
+Current State:6
+Current State:0
+Current State:1
+Current State:3
+Previous temp:30.81	sol_temp: 30.69	Threshold: 1.50	Desired temp: 32.31
+Previous temp:30.81	sol_temp: 31.37	Threshold: 1.50	Desired temp: 32.31
+Current State:0
+Current State:1
+Current State:4
+sample:3,3.75,26.80,100073.35,68.00,32.19
+Current State:5
+Current State:6
+Current State:0
+Current State:1
+Current State:4
+sample:4,2.70,26.82,100072.90,74.00,32.13
+Current State:5
+Current State:6
+Current State:0
+Current State:1
+Current State:4
+sample:5,4.11,26.83,100072.80,76.00,32.13
+Current State:5
+Current State:6
+Current State:0
+Current State:1
+Current State:4
+sample:6,4.42,26.82,100069.85,79.00,32.06
+Current State:5
+Current State:6
+Current State:0
+Current State:1
+Current State:4
+sample:7,4.28,26.85,100071.32,85.00,32.06
+Current State:5
+Current State:6
+Current State:0
+Current State:1
+Current State:4
+sample:8,4.28,26.87,100070.88,80.00,32.00
+Current State:5
+Current State:6
+Current State:0
+Current State:1
+Current State:4
+sample:9,3.63,26.88,100068.89,79.00,31.94
+Current State:5
+Current State:6
+Current State:0
+Current State:1
+Current State:3
